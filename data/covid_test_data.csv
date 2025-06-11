@@ -1,1 +1,12 @@
+age,sex,fever,cough,loss_of_smell,exposed,test_result
+34,M,1,1,1,1,positive
+45,F,0,0,0,0,negative
+29,F,1,1,1,1,positive
+65,M,0,1,0,1,positive
+50,F,1,0,0,0,negative
+38,M,0,0,0,0,negative
+41,F,1,1,1,1,positive
+52,M,1,1,0,1,positive
+33,F,0,1,0,0,negative
+60,M,1,0,1,1,positive
 
